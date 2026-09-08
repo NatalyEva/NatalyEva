@@ -1,16 +1,61 @@
-## Hi there 👋
+# Привет! Меня зовут Кокарева Наталья
 
-<!--
-**NatalyEva/NatalyEva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я QA Engineer. Специализируюсь на ручном и автоматизированном тестировании веб-приложений и API.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Статистика
+
+[Вставьте сюда вашу статистику GitHub, например, через github-readme-stats]
+
+---
+
+## Технологический стек
+
+### Тестирование API и интеграций
+Postman, SOAP, Kafka, REST API, Swagger, Discord
+
+### Тестирование веб- и мобильных приложений
+Figma, HTTP/HTTPS, HTML, CSS, Android Studio, Charles Proxy
+
+### Логи и мониторинги
+Kibana, Sentry, Grafana, Jaeger, Bash
+
+### Тестовая документация
+Yandex Tracker, ClickUp, Test IT, Notion
+
+### Базы данных
+PostgreSQL, MongoDB, Metabase, DBeaver
+
+### Автотесты
+Cypress, Selenium, pytest, GitHub Actions, GitLab CI, VS Code, Sublime Text
+
+---
+
+## Практика и стажировки
+
+- Название стажировки 1 — [ссылка на сертификат или проект]
+- Название стажировки 2 — [ссылка на сертификат или проект]
+- Название стажировки 3 — [ссылка на сертификат или проект]
+
+---
+
+## Образование
+
+- Название учебного заведения/курса — [ссылка на диплом]
+- Рекомендательное письмо — [ссылка на письмо]
+
+---
+
+## Мои проекты
+
+- [Название проекта 1](ссылка) — краткое описание, например, «Автотесты на pytest для API».
+- [Название проекта 2](ссылка) — краткое описание, например, «Тест-кейсы для мобильного приложения».
+
+---
+
+## Контакты
+
+- Telegram: [@ваш_ник](ссылка)
+- Email: ваш_email@example.com
+- LinkedIn: [ваш профиль](ссылка)
