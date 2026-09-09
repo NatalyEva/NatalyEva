@@ -1,4 +1,4 @@
-<img width="256" height="256" alt="Discord" src="https://github.com/user-attachments/assets/c430706d-2703-4dab-b567-470da2d710be" /># Привет! Меня зовут Натали
+/># Привет! Меня зовут Натали
 
 Я QA Engineer. Специализируюсь на тестировании веб-приложений, API и мобильных приложений.
 
