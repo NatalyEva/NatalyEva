@@ -41,10 +41,10 @@ PostgreSQL, MongoDB, Metabase, DBeaver
 
 ## Мои проекты
 
-- [Inoriginal](https://inoriginal.cc/) — краткое описание, например, «Тест-кейсы для мобильного приложения».
-- [Косметология Верона](https://verona96.ru/) — краткое описание, например, «Автотесты на pytest для API».
-- [RadioPotok](https://radiopotok.ru/) — краткое описание, например, «Тест-кейсы для мобильного приложения».
-- [ProgressME](https://progressme.ru/) — краткое описание, например, «Тест-кейсы для мобильного приложения».
+- [Inoriginal](https://inoriginal.cc/) — Тестирование документации, чек-листы (smoke, sanity, regress), тест-кейсы (smoke, sanity, regress), баг-репорты, отчёты, мониторинг.
+- [Косметология Верона](https://verona96.ru/) — Тестирование документации, чек-листы (smoke, sanity, regress), тест-кейсы (smoke, sanity, regress), баг-репорты, отчёты.
+- [RadioPotok](https://radiopotok.ru/) — Тестирование документации, чек-листы (smoke, sanity, regress), тест-кейсы (smoke, sanity, regress), баг-репорты, отчёты.
+- [ProgressME](https://progressme.ru/) — Тестирование документации, чек-листы (smoke, sanity, regress), тест-кейсы (smoke, sanity, regress), баг-репорты, отчёты, мониторинг.
 
 ---
 
