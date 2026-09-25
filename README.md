@@ -44,7 +44,7 @@ PostgreSQL, MongoDB, Metabase, DBeaver
 - [Inoriginal](https://inoriginal.cc/) — Тестирование документации, чек-листы (smoke, sanity, regress), тест-кейсы (smoke, sanity, regress), баг-репорты, отчёты, мониторинг.
 - [Косметология Верона](https://verona96.ru/) — Тестирование документации, чек-листы (smoke, sanity, regress), тест-кейсы (smoke, sanity, regress), баг-репорты, отчёты.
 - [RadioPotok](https://radiopotok.ru/) — Тестирование документации, чек-листы (smoke, sanity, regress), тест-кейсы (smoke, sanity, regress), баг-репорты, отчёты.
-- [ProgressME](https://progressme.ru/) — Тестирование документации, чек-листы (smoke, sanity, regress), тест-кейсы (smoke, sanity, regress), баг-репорты, отчёты, мониторинг.
+- [ProgressME](https://progressme.ru/) — Тестирование документации, API, чек-листы (smoke, sanity, regress), тест-кейсы (smoke, sanity, regress), баг-репорты, отчёты, мониторинг.
 
 ---
 
