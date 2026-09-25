@@ -28,8 +28,7 @@ Yandex Tracker, ClickUp, Test IT, Notion
 ### Базы данных
 PostgreSQL, MongoDB, Metabase, DBeaver
 
-### Автотесты
-Cypress, Selenium, pytest, GitHub Actions, GitLab CI, VS Code, Sublime Text
+
 
 ---
 
