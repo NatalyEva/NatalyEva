@@ -10,7 +10,7 @@
 
 
 ### Тестирование API и интеграций
-Postman, SOAP, Kafka, REST API, Swagger
+Postman, SOAP, REST API, Swagger
 
 
 
