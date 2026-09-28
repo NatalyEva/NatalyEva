@@ -26,7 +26,7 @@ Kibana, Sentry, Grafana
 Yandex Tracker, ClickUp, Test IT, Notion
 
 ### Базы данных
-PostgreSQL, MongoDB, Metabase, DBeaver
+PostgreSQL, Metabase, DBeaver
 
 
 
