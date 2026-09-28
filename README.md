@@ -20,7 +20,7 @@ Postman, SOAP, REST API, Swagger
 Figma, HTTP/HTTPS, HTML, CSS, Android Studio, Charles Proxy
 
 ### Логи и мониторинги
-Kibana, Sentry, Grafana, Jaeger, Bash
+Kibana, Sentry, Grafana
 
 ### Тестовая документация
 Yandex Tracker, ClickUp, Test IT, Notion
