@@ -50,4 +50,4 @@ PostgreSQL, Metabase, DBeaver
 
 ## Контакты
 
-- Email: watanabe1san@gmail.com
+- Email: Natalitaminka11@yandex.ru
