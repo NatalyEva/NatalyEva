@@ -34,7 +34,7 @@ PostgreSQL, Metabase, DBeaver
 
 ## Опыт работы
 
-- Компания: Pixelloom — 1 год
+- Компания: Pixelloom — 6 месяцев
 
 
 ---
