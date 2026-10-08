@@ -46,7 +46,7 @@ PostgreSQL, Metabase, DBeaver
 
 Учебный проект по тестированию веб-приложения салона красоты. Проведён полный цикл ручного тестирования: от анализа документации до оформления баг-репортов и итогового отчёта.
 
-Ссылка на проект: (https://github.com/NatalyEva/qa-portfolio/tree/main/Верона)
+[GitHub](https://github.com/NatalyEva/qa-portfolio/tree/main/Верона)
 
 Что сделано:
 
@@ -70,7 +70,7 @@ PostgreSQL, Metabase, DBeaver
 
 Учебный проект по тестированию веб-приложения Inoriginal. Проведён полный цикл ручного тестирования: от анализа документации до оформления баг-репортов и итогового отчёта.
 
-Ссылка на проект: (https://github.com/NatalyEva/qa-portfolio/tree/main/Inoriginal)
+[GitHub](https://github.com/NatalyEva/qa-portfolio/tree/main/Inoriginal)
 
 Что сделано:
 
@@ -96,7 +96,7 @@ PostgreSQL, Metabase, DBeaver
 
 Pet-проект по тестированию API. Сайт создан с помощью ИИ как полигон для практики. Основная задача — протестировать все доступные эндпоинты через Postman и оформить результаты.
 
-Ссылка на проект: (https://github.com/NatalyEva/qa-portfolio/tree/main/Pokemon%20Arena/API)
+[GitHub](https://github.com/NatalyEva/qa-portfolio/tree/main/Pokemon%20Arena/API)
 
 Что сделано:
 
